@@ -6,7 +6,7 @@
 
 ### main.c：
 
-读取终端输入的文件路径
+读取终端输入的文件路径，传入 enableRawMode()
 
 ### Level1.c：
 
